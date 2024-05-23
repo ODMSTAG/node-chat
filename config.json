@@ -1,7 +1,7 @@
 {
 	"log": true,
 	"port": 3000,
-	"url": "/",
+	"url": "https://node-chat-topaz.vercel.app/",
 	"ssl": {
 		"use": false,
 		"key": "/path/to/your/ssl.key",
